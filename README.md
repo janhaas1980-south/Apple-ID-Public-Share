@@ -1,41 +1,55 @@
-# Apple-ID-Public-Share
-免费分享美国 App Store 公共账号，仅供技术测试与 App 下载使用。请务必遵守登录规则。
-# 🍎 美区 Apple ID 免费领（纯公益、持续更新）
+# 🍎 Apple-ID-Public-Share
 
-嘿！小伙伴们，别再到处花冤枉钱买美区账号了。这里给大家分享几个好用的公共账号，方便大家下载一些国内商店搜不到的 App。
+> [!IMPORTANT]
+> **🚀 跨境技术实验室 (BABA BEAN LAB) 官方公益资源库**
+> 拒绝全网“万人骑”的劣质号。我们每日投入真机环境手工维护，只为提供最纯净、最稳定的美区 App Store 下载体验。
 
----
-
-### 📢 丑话说在前（一定要看，否则手机变砖！）
-
-为了账号能活得久一点，也为了你自己的手机安全，请大家**必须**遵守这三点：
-
-1. **绝对别登 iCloud！** 重要的事情说三遍。只能在 **App Store** 登录。如果你私自登了手机设置里的 iCloud 导致手机被锁，那真的是谁也救不了你，千万别拿自己的手机冒险。
-2. **不要改密码！** 这是一个共享账号，你改了别人就没法用了，而且苹果后台会自动检测锁定，大家都玩完。
-3. **下载完就退出！** 拿到你要的 App 后，请立刻退出登录，给后面排队的小伙伴腾个位子，素质下载，谢谢大家。
+![Status](https://img.shields.io/badge/Service-Operational-brightgreen?style=for-the-badge&logo=github)
+![Region](https://img.shields.io/badge/Region-US%2FHK-blue?style=for-the-badge)
+![Maintenance](https://img.shields.io/badge/Maintenance-Daily-orange?style=for-the-badge)
 
 ---
 
-### 🎁 今天的福利账号
+## ⛔ 核心警告：禁止登录 iCloud (⚠️ MUST READ)
 
-| 序号 | Apple ID (账号) | 说明 | 状态 |
-| :--- | :--- | :--- | :--- |
-| **01** | `zhenjavinogradovbj0144@rambler.ru` | 下载普通免费软件 | ✅ 正常可用 |
-| **02** | `dezr35327@outlook.com` | 下载普通免费软件 | ✅ 正常可用 |
-| **03** | `leshasavelevwq7229@rambler.ru` | 下载普通免费软件 | ✅ 正常可用 |
-| **04** | `xwgqw32vb9sxnz@outlook.com.ar` | **里面买了小火箭 (Shadowrocket)** | 🔒 容易锁，拼手速 |
-
----
-
-### 😭 账号登不上、被锁了怎么办？
-
-公共账号用的人太多，苹果系统经常会自动锁定。如果你发现上面的账号都登不上了，或者那个**带小火箭的账号**被锁了，别灰心。
-
-你可以直接去我们的**实时维护官网**，找右下角的**在线客服**。客服妹子会免费给你发最新的解锁账号，或者是更好用的独享号。
-
-🔗 **点击这里找客服要账号密码：[ziru.us](https://ziru.us)**
+> [!CAUTION]
+> **绝对禁止在系统“设置”中登录！**
+> 
+> 1. **严禁登录 iCloud：** 只能在 `App Store` 应用商店登录。私自登录手机设置导致手机被锁，后果自负。
+> 2. **严禁修改资料：** 这是一个共享账号，系统后台会自动检测锁定，请勿尝试修改密码或绑定个人手机号。
+> 3. **下载完请退出：** 拿到你要的 App 后，请立刻退出登录，给后面排队的小伙伴腾个位子，素质下载，谢谢大家。
 
 ---
 
-### 🛡️ 声明
-这些号都是从网上搜集分享的，纯属技术交流。大家低调点用，别干坏事。如果觉得好用，记得收藏这个仓库，我会不定时回来更新福利！
+## 🎁 实时福利账号领取 (Daily Updated Accounts)
+
+> **更新时间：** `2026-03-22 23:55` (每日 8:00 定时校验)
+
+| 序号 | 地区 | 共享账号 (Apple ID) | 当前状态 | 核心备注 (Notes) |
+| :-- | :--: | :--- | :--: | :--- |
+| 01 | 🇺🇸 | `zhenjavinogradovbj0144@rambler.ru` | ✅ 正常可用 | 纯净美区，支持 TikTok / ChatGPT |
+| 02 | 🇺🇸 | `dezr35327@outlook.com` | ✅ 正常可用 | 权重老号，下载极其稳定 |
+| 03 | 🇺🇸 | `leshasavelevwq7229@rambler.ru` | ✅ 正常可用 | 适合环境诊断与技术测试 |
+| 04 | 🇺🇸 | `xwqqw32vb9sxnz@outlook.com` | 🚀 **特供号** | **内置已购 Shadowrocket (小火箭)** |
+| 05 | 🇭🇰 | `hk_testing_demo@babeedu.net` | ⚠️ 锁定中 | 维护中，请关注 [巴巴豆官网](https://www.babeedu.net) 获取最新动态 |
+
+---
+
+## 🛠️ 账号使用技术规范 (Technical Guidelines)
+
+为了确保 100% 登录成功率并延长账号寿命，请遵循以下技术要求：
+
+1. **环境准备：** 必须搭配 [自如加速器 (ziru.us)](https://ziru.us) 的**原生住宅节点**登录。苹果对机房 IP 的封控极其严厉，原生环境是防封的关键。
+2. **正确入口：** 打开 `App Store` -> 点击头像 -> 拉到最底部 `退出登录` -> 输入上方提供的共享账号。
+3. **跳过双重验证：** 若弹出“升级账户安全”，请点击 `其他选项` -> `不升级`。
+
+---
+
+## 🔗 技术连接与资源
+* **官方技术站：** [巴巴豆网络技术研究中心](https://www.babeedu.net)
+* **性能监测白皮书：** [跨境网络底层协议深度优化指南](https://www.babeedu.net/?p=760)
+* **极速连接方案：** [自如加速器 Ziru Link (Official)](https://ziru.us)
+* **GitHub 仓库地址：** [Apple-ID-Public-Share](https://github.com/janhaas1980-south/Apple-ID-Public-Share)
+
+---
+© 2026 BABA BEAN LAB. 为全球开发者提供技术测试支持。
