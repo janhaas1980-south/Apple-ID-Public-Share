@@ -31,7 +31,7 @@
 | 02 | 🇺🇸 | `dezr35327@outlook.com` | ✅ 正常可用 | 权重老号，下载极其稳定 |
 | 03 | 🇺🇸 | `leshasavelevwq7229@rambler.ru` | ✅ 正常可用 | 适合环境诊断与技术测试 |
 | 04 | 🇺🇸 | `xwqqw32vb9sxnz@outlook.com` | 🚀 **特供号** | **内置已购 Shadowrocket (小火箭)** |
-| 05 | 🇭🇰 | `hk_testing_demo@babeedu.net` | ⚠️ 锁定中 | 维护中，请关注 [巴巴豆官网](https://www.babeedu.net) 获取最新动态 |
+| 05 | 🇭🇰 | `hk_testing_demo@babeedu.net` | ⚠️ 锁定中 | 维护中，请关注 [自如加速器官网](https://ziru.us) 获取最新美区账号密码 |
 
 ---
 
